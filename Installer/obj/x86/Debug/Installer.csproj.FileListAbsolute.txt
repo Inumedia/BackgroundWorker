@@ -1,0 +1,8 @@
+C:\Users\Inumedia\documents\visual studio 2010\Projects\BackgroundWorker\Installer\obj\x86\Debug\Interop.TaskScheduler.dll
+C:\Users\Inumedia\documents\visual studio 2010\Projects\BackgroundWorker\Installer\obj\x86\Debug\Installer.csproj.ResolveComReference.cache
+C:\Users\Inumedia\documents\visual studio 2010\Projects\BackgroundWorker\Installer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Inumedia\documents\visual studio 2010\Projects\BackgroundWorker\Installer\bin\Debug\Installer.exe
+C:\Users\Inumedia\documents\visual studio 2010\Projects\BackgroundWorker\Installer\bin\Debug\Installer.pdb
+C:\Users\Inumedia\documents\visual studio 2010\Projects\BackgroundWorker\Installer\obj\x86\Debug\Installer.exe
+C:\Users\Inumedia\documents\visual studio 2010\Projects\BackgroundWorker\Installer\obj\x86\Debug\Installer.pdb
+C:\Users\Inumedia\documents\visual studio 2010\Projects\BackgroundWorker\Installer\bin\Debug\Interop.TaskScheduler.dll

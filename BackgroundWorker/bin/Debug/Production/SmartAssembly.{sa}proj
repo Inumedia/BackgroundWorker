@@ -1,0 +1,41 @@
+<SmartAssemblyProject ProjectID="{682c3189-e711-4c37-b25b-dac59ad77994}" Version="2.0">
+    <MainAssemblyFileName>..\BackgroundWorker.exe</MainAssemblyFileName>
+    <Configuration Name="Release">
+        <ApplicationName />
+        <Destination DestinationFileName=".\BackgroundWorker.exe" />
+        <Assemblies>
+            <Assembly AssemblyName="Interop.TaskScheduler, Culture=neutral, PublicKeyToken=null">
+                <Merging Merge="1">
+                    <Pruning Prune="1">
+                        <Exclusion />
+                    </Pruning>
+                    <Obfuscation />
+                    <ControlFlow />
+                    <MemberRefsProxy />
+                </Merging>
+                <Embedding />
+            </Assembly>
+            <Assembly AssemblyName="BackgroundWorker, Culture=neutral, PublicKeyToken=null">
+                <Merging>
+                    <ResourcesCompression Compress="0" />
+                    <MemberRefsProxy />
+                    <Pruning Prune="1">
+                        <Exclusion />
+                    </Pruning>
+                    <Obfuscation />
+                    <ControlFlow />
+                    <ResourcesPruning />
+                </Merging>
+            </Assembly>
+        </Assemblies>
+        <Options>
+            <Obfuscation FieldsNameMangling="2" NameMangling="2" />
+            <ExceptionReporting ReportExceptions="0" />
+            <StrongNameSigning KeyFileName="..\..\..\..\..\..\..\Inumedia.snk" Sign="1" />
+            <OtherProtections SuppressIldasm="1" />
+            <StringsEncoding Encode="0" />
+            <OtherOptimizations ManageMemory="1" SealClasses="1" />
+            <Debugging CreatePDB="0" />
+        </Options>
+    </Configuration>
+</SmartAssemblyProject>

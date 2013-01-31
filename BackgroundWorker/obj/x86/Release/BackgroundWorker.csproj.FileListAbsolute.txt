@@ -1,0 +1,11 @@
+C:\Users\Inumedia\Documents\Visual Studio 2010\Projects\BackgroundWorker\BackgroundWorker\bin\Release\BackgroundWorker.exe.config
+C:\Users\Inumedia\Documents\Visual Studio 2010\Projects\BackgroundWorker\BackgroundWorker\obj\x86\Release\Interop.TaskScheduler.dll
+C:\Users\Inumedia\Documents\Visual Studio 2010\Projects\BackgroundWorker\BackgroundWorker\obj\x86\Release\BackgroundWorker.csproj.ResolveComReference.cache
+C:\Users\Inumedia\Documents\Visual Studio 2010\Projects\BackgroundWorker\BackgroundWorker\bin\Release\BackgroundWorker.exe
+C:\Users\Inumedia\Documents\Visual Studio 2010\Projects\BackgroundWorker\BackgroundWorker\bin\Release\BackgroundWorker.pdb
+C:\Users\Inumedia\Documents\Visual Studio 2010\Projects\BackgroundWorker\BackgroundWorker\bin\Release\Interop.TaskScheduler.dll
+C:\Users\Inumedia\Documents\Visual Studio 2010\Projects\BackgroundWorker\BackgroundWorker\obj\x86\Release\BackgroundWorker.csprojResolveAssemblyReference.cache
+C:\Users\Inumedia\Documents\Visual Studio 2010\Projects\BackgroundWorker\BackgroundWorker\obj\x86\Release\BackgroundWorker.Properties.Resources.resources
+C:\Users\Inumedia\Documents\Visual Studio 2010\Projects\BackgroundWorker\BackgroundWorker\obj\x86\Release\BackgroundWorker.csproj.GenerateResource.Cache
+C:\Users\Inumedia\Documents\Visual Studio 2010\Projects\BackgroundWorker\BackgroundWorker\obj\x86\Release\BackgroundWorker.exe
+C:\Users\Inumedia\Documents\Visual Studio 2010\Projects\BackgroundWorker\BackgroundWorker\obj\x86\Release\BackgroundWorker.pdb
